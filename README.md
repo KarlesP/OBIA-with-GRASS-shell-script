@@ -34,7 +34,7 @@ sudo apt-get update
 
 ## Authors
 
-* **KarlesP** - *Initial work* - [Mr Koios](https://github.com/KarlesP)
+* **KarlesP** - *Initial work* - [KarlesP](https://github.com/KarlesP)
 
 ## License
 
